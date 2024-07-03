@@ -4,6 +4,32 @@
 A great wiki to share and learn about Akamai Bot Manager for Devs.
 
 
+## Usage/Examples
+
+```python
+import requests as s
+
+
+headers = {"put some headers"}
+
+
+# Initial requests to get appropriate cookie on the main page
+
+request_get = s.get("https://google.com/" headers=headers)
+
+
+# Final requests with the cookies
+
+
+requests_post = s.post("https://google.com/login" headers=headers, cookie=request_get.cookie)
+
+# Note that cookies may also be in the headers.
+# Note also that cookie may contains date or time and can be rejected if the time doesn't match.
+
+
+```
+
+
 
 
 
