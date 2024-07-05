@@ -1,4 +1,3 @@
-
 # Akamai Bot Manager Wiki
 
 A great wiki to share and learn about Akamai Bot Manager for Devs.
@@ -83,6 +82,7 @@ Timeout : Incorrect Cookie or not cookie at all.
 ## Documentation
 
 [Cookie Manager Documentation by Akamai](https://techdocs.akamai.com/identity-cloud/docs/hosted-login-cookies-and-local-storage-1)
+
 [Javascript Generator Cookie Process by AnderRV](https://gist.github.com/AnderRV/12eb434af9f4aa185bfd0fd274713763)
 
 
