@@ -6,7 +6,8 @@ A great wiki to share and learn about Akamai Bot Manager for Devs.
 ## Structure
 
 
-<img width="749" alt="image" src="https://github.com/LincolnKermit/akamai-bot-manager-unofficial/assets/104798220/2c997450-3b72-47b2-880b-bd67f5b3d596">
+<img width="671" alt="image" src="https://github.com/LincolnKermit/akamai-bot-manager-unofficial/assets/104798220/9e5f2e8a-3786-44ca-8577-033378bce0ff">
+
 
 
 
