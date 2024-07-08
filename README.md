@@ -1,6 +1,7 @@
 # Akamai Bot Manager Wiki
 
 A great wiki to share and learn about Akamai Bot Manager for Devs.
+Feel free to talk here : [Discussions channel](https://github.com/LincolnKermit/akamai-bot-manager-unofficial/discussions/categories/general)
 
 ## Structure
 
