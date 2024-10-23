@@ -21,7 +21,7 @@ It also check that the navigator is not powered by a webdriver like selenium.
 
 
 
-Source: [Akamai deobfuscated JavaScript by Andre](https://gist.github.com/AnderRV/12eb434af9f4aa185bfd0fd274713763)
+Source: [Akamai deobfuscated JavaScript by AnderRV](https://gist.github.com/AnderRV/12eb434af9f4aa185bfd0fd274713763)
 
 
 ## Usage/Examples
